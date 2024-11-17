@@ -1,1 +1,3 @@
 # sugfud
+# generate food suggestions
+
